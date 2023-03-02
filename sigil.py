@@ -37,20 +37,19 @@ def substitute_letters():
     return
 
 
-#print("Enter string to be replaced: ")
+print("Enter string to be replaced: ")
 
-#string2 = input()
+string2 = input()
 
-#print("Enter index to be replaced")
+print("Enter index to be replaced")
 
-#index_num = input()
+index_num = input()
 
-#print("Enter character you would like to be used instead")
+print("Enter character you would like to be used instead")
 
-#new_char = input()
+new_char = input()
     
-#print(replace_string_at_index(string2, index_num, new_char))
+print(replace_string_at_index(string2, index_num, new_char))
 
-substitute_letters()
 
  
